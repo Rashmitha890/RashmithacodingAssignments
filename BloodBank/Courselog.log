@@ -1,0 +1,47 @@
+2021-07-28 08:46:05 INFO  BloodbankApplication:18 - Opened BloodBankApplication
+2021-07-28 08:46:56 INFO  BloodbankApplication:18 - Opened BloodBankApplication
+2021-07-28 08:47:20 INFO  BloodBankController:35 - In controller for updation
+2021-07-28 08:47:20 INFO  BloodBankServiceImpl:38 - in service for updating
+2021-07-28 08:47:21 INFO  BloodbankApplication:73 - calling updateBloodBankCenter method in controller
+2021-07-28 08:47:42 INFO  BloodbankApplication:18 - Opened BloodBankApplication
+2021-07-28 08:47:54 INFO  BloodbankApplication:57 - calling addBloodBankCenter method in controller
+2021-07-28 08:47:54 INFO  BloodBankController:16 - in controller for adding
+2021-07-28 08:47:54 INFO  BloodBankServiceImpl:17 - in service for adding.....
+2021-07-28 08:50:48 INFO  BloodBankController:35 - In controller for updation
+2021-07-28 08:50:48 INFO  BloodBankServiceImpl:38 - in service for updating
+2021-07-28 08:50:48 INFO  BloodbankApplication:73 - calling updateBloodBankCenter method in controller
+2021-07-28 08:53:26 INFO  BloodBankController:25 - in controller for adding
+2021-07-28 08:53:26 INFO  BloodbankApplication:64 - calling deleteBloodBankCenter method in controller
+2021-07-28 08:54:09 INFO  BloodBankController:44 - in controller for displaying all lists...
+2021-07-28 08:54:09 INFO  BloodBankServiceImpl:48 - In services for displaying all lists...
+2021-07-28 08:54:09 INFO  BloodbankApplication:78 - calling getAllcenters method in controller
+2021-07-28 08:59:55 INFO  BloodBankController:35 - In controller for updation
+2021-07-28 08:59:55 INFO  BloodBankServiceImpl:38 - in service for updating
+2021-07-28 08:59:55 INFO  BloodbankApplication:73 - calling updateBloodBankCenter method in controller
+2021-07-28 13:15:31 INFO  class:60 - Entered in client
+2021-07-28 13:16:59 INFO  class:60 - Entered in client
+2021-07-28 13:18:49 INFO  class:13 - in service add method
+2021-07-28 13:20:24 INFO  class:95 - Entered in client
+2021-07-28 13:20:53 INFO  class:95 - Entered in client
+2021-07-28 14:23:15 INFO  class:60 - Entered in client
+2021-07-28 14:26:46 INFO  class:60 - Entered in client
+2021-07-28 14:28:12 INFO  class:13 - in service add method
+2021-07-28 14:29:34 INFO  class:95 - Entered in client
+2021-07-28 14:29:55 INFO  class:115 - Entered in client
+2021-07-28 15:29:14 INFO  class:95 - Entered in client
+2021-07-28 15:32:53 INFO  class:95 - Entered in client
+2021-07-28 15:34:31 INFO  class:95 - Entered in client
+2021-07-28 15:40:57 INFO  class:95 - Entered in client
+2021-07-28 15:44:56 INFO  class:103 - entered in client
+2021-07-28 15:55:52 INFO  class:103 - entered in client
+2021-07-28 16:06:57 INFO  class:96 - Entered in client
+2021-07-28 16:08:38 INFO  class:96 - Entered in client
+2021-07-28 22:04:25 INFO  class:62 - Entered in client
+2021-07-28 22:04:38 INFO  class:97 - Entered in client
+2021-07-28 22:04:44 INFO  class:23 - in service delete method
+2021-07-28 22:05:55 INFO  class:117 - Entered in client
+2021-07-28 22:06:25 INFO  class:33 - in service update method
+2021-07-28 22:07:04 INFO  class:117 - Entered in client
+2021-07-28 22:07:46 INFO  class:33 - in service update method
+2021-07-28 22:08:07 INFO  class:117 - Entered in client
+2021-07-28 22:08:49 INFO  class:33 - in service update method
